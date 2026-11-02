@@ -2,5 +2,3 @@ crewai
 crewai-tools
 streamlit
 python-dotenv
-pathlib
-datetime
